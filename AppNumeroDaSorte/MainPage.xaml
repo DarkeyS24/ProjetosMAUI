@@ -6,7 +6,7 @@
     Title="MainPage">
 
     <ScrollView>
-        <VerticalStackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <VerticalStackLayout VerticalOptions="CenterAndExpand">
             <Image
                 Margin="0"
                 HeightRequest="115"
